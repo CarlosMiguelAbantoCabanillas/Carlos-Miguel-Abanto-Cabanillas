@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Carlos Abanto
 
 🎓 Computer Engineering student  
-💻 Software Developer in progress  
+💻 Software Developer and Apps Mobiles 
 
 ## 🚀 About Me
 I am a motivated Computer Engineering student focused on building and testing quality software.  
