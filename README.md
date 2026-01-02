@@ -19,8 +19,7 @@ Currently learning and improving my skills through real projects and continuous 
 - Backend fundamentals
 - Continuous learning and professional growth
 
-## 📈 Goal
-To gain professional experience in software development or QA, grow as a developer, and work on impactful real-world projects.
+
 
 ---
 
